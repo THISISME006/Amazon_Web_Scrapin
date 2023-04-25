@@ -1,7 +1,6 @@
-`
-from bs4 import BeautifulSoup
+`from bs4 import BeautifulSoup
 import requests
 import time
 import datetime
-import smtplib
-`
+
+import smtplib`
