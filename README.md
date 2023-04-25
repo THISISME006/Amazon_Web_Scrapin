@@ -42,4 +42,4 @@ Contributions are welcome! If you find a bug or have an idea for an improvement,
 
 ## Contact
 
-If you have any questions or comments, please feel free to contact me at your-email@example.com.
+If you have any questions or comments, please feel free to contact me at your-vaibhavbhatt23@gmail.com.
