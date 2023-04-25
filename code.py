@@ -129,7 +129,7 @@ while(True):
     
  `import pandas as pd
 
-df = pd.read_csv(r'C:\Users\alexf\AmazonWebScraperDataset.csv')
+df = pd.read_csv(r'C:\Users\sushil\AmazonWebScraperDataset.csv')
 
 print(df)`
 
@@ -150,7 +150,7 @@ def send_mail():
     msg = f"Subject: {subject}\n\n{body}"
     
     server.sendmail(
-        'AlexTheAnalyst95@gmail.com',
+        'vaibhavbhatt23@gmail.com',
         msg
      
     )`
